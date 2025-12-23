@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Lec 10/(2DArray).iml" filepath="$PROJECT_DIR$/Lec 10/(2DArray).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lec27/(ArrayList).iml" filepath="$PROJECT_DIR$/Lec27/(ArrayList).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lec 9/(Arrays).iml" filepath="$PROJECT_DIR$/Lec 9/(Arrays).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lec34/(Binary Tree).iml" filepath="$PROJECT_DIR$/Lec34/(Binary Tree).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lec 33/(Greedy).iml" filepath="$PROJECT_DIR$/Lec 33/(Greedy).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lec21/(OOPS).iml" filepath="$PROJECT_DIR$/Lec21/(OOPS).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lec 32/(Queue).iml" filepath="$PROJECT_DIR$/Lec 32/(Queue).iml" />
+      <module fileurl="file://$PROJECT_DIR$/lec 16/(Shorting).iml" filepath="$PROJECT_DIR$/lec 16/(Shorting).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lec 29/(Stack).iml" filepath="$PROJECT_DIR$/Lec 29/(Stack).iml" />
+      <module fileurl="file://$PROJECT_DIR$/lec 12/(String).iml" filepath="$PROJECT_DIR$/lec 12/(String).iml" />
+      <module fileurl="file://$PROJECT_DIR$/lec13/(StringBuilder).iml" filepath="$PROJECT_DIR$/lec13/(StringBuilder).iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArrayProblems/ArrayProblems.iml" filepath="$PROJECT_DIR$/ArrayProblems/ArrayProblems.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Arraylist/Arraylist.iml" filepath="$PROJECT_DIR$/Arraylist/Arraylist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lec 16/Assigement/Assigement.iml" filepath="$PROJECT_DIR$/lec 16/Assigement/Assigement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lec15/AssigementBit/AssigementBit.iml" filepath="$PROJECT_DIR$/lec15/AssigementBit/AssigementBit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lec 9/Assignement/Assignement.iml" filepath="$PROJECT_DIR$/Lec 9/Assignement/Assignement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lec 10/Assignement18/Assignement18.iml" filepath="$PROJECT_DIR$/Lec 10/Assignement18/Assignement18.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LeetCode/Backtracking/Backtracking.iml" filepath="$PROJECT_DIR$/LeetCode/Backtracking/Backtracking.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LeetCode/BinaryTree/BinaryTree.iml" filepath="$PROJECT_DIR$/LeetCode/BinaryTree/BinaryTree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DSA.iml" filepath="$PROJECT_DIR$/DSA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Function/Function.iml" filepath="$PROJECT_DIR$/Function/Function.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LeetCode/Greedy/Greedy.iml" filepath="$PROJECT_DIR$/LeetCode/Greedy/Greedy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lec 17/Lec 17.iml" filepath="$PROJECT_DIR$/Lec 17/Lec 17.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lec 18/Lec 18.iml" filepath="$PROJECT_DIR$/Lec 18/Lec 18.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lec 26{BackTracking/Lec 21.iml" filepath="$PROJECT_DIR$/Lec 26{BackTracking/Lec 21.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lec4/Lec4.iml" filepath="$PROJECT_DIR$/Lec4/Lec4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lec7FunctionAndMetrhod/Lec7FunctionAndMetrhod.iml" filepath="$PROJECT_DIR$/Lec7FunctionAndMetrhod/Lec7FunctionAndMetrhod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LeetCode/LeetCode.iml" filepath="$PROJECT_DIR$/LeetCode/LeetCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LeetCode/LinkedList/LinkedList.iml" filepath="$PROJECT_DIR$/LeetCode/LinkedList/LinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LeetCode/LinkedListQu/LinkedListQu.iml" filepath="$PROJECT_DIR$/LeetCode/LinkedListQu/LinkedListQu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LeetCode/Recursion/Recursion.iml" filepath="$PROJECT_DIR$/LeetCode/Recursion/Recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LeetCode/Stack/Stack.iml" filepath="$PROJECT_DIR$/LeetCode/Stack/Stack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LeetCode/StringProblem/StringProblem.iml" filepath="$PROJECT_DIR$/LeetCode/StringProblem/StringProblem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lec28/[Linked list].iml" filepath="$PROJECT_DIR$/Lec28/[Linked list].iml" />
+      <module fileurl="file://$PROJECT_DIR$/lec15/lec15.iml" filepath="$PROJECT_DIR$/lec15/lec15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lec5/lec5.iml" filepath="$PROJECT_DIR$/lec5/lec5.iml" />
+    </modules>
+  </component>
+</project>
