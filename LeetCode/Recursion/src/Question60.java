@@ -1,22 +1,33 @@
-import  java.util.*;
-public class Question60 {
-    public static StringBuilder  getPermutation(int n, int k){
-        List<Integer> numbers = new ArrayList<>();
+import java.util.*;
 
-        for(int i=1;i<n;i++){
-            numbers.add(i);
+public class Question60 {
+    public static String getPermutation(List<String> result, StringBuilder temp, boolean[] used, int n) {
+        if (temp.length() == n) {
+            result.add(temp.toString());
+            return result.toString();
         }
-          StringBuilder ans=new StringBuilder();
-        for(int i=0;i<n;i++){
-            for(int j=i;j<n;j++){
-                ans.append(i);
-            }
+        for (int i = 1; i <= n; i++) {
+            if (used[i]) continue;
+            used[i] = true;
+            temp.append(i);
+            getPermutation(result, temp, used, n);
+            temp.deleteCharAt(temp.length() - 1); // backtrack
+            used[i] = false;
         }
-        return ans;
+        return result.toString();
+
     }
+
     public static void main(String[] args) {
-        int n=3;
-        int k=3;
-        System.out.println(getPermutation(n,k));
+        int n = 3;
+        int k = 3;
+        List<String> result = new ArrayList<>();
+        StringBuilder temp = new StringBuilder();
+        boolean[] used = new boolean[n + 1]; // track used numbers
+
+        System.out.println(getPermutation(result, temp, used, n));
+
+        System.out.println("All permutations: " + result);
+        System.out.println(k + "th permutation: " + result.get(k - 1));
     }
 }
