@@ -14,7 +14,7 @@ public class SizeOfLargestBSTinBT {
         int size;
         int min;
         int max;
-        
+
         public Info(boolean isBSt,int size,int min,int max){
             this.isBSt=isBSt;
             this.size=size;
