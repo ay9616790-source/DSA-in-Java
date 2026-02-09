@@ -1,3 +1,5 @@
+package LinkedList;
+
 public class DubblyLL {
     public static class Node {
         int data;
