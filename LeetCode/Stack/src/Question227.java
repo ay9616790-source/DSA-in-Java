@@ -1,21 +1,42 @@
 import java.util.Stack;
 
 public class Question227 {
-    public static int BasicCalculator(String str){
-        Stack<Character> s=new Stack<>();
-        int n=str.length();
-//        int arr[n];
-        for(int i=0;i<str.length();i++){
-            char ch=str.charAt(i);
-            if(ch=='*'|| ch=='/' ||ch=='+'||ch=='-'){
-                s.push(ch);
-            }else{
-//                arr[i]=ch;
-            }
-        }
-         return 0;
+    public static int BasicCalculator(String s){
+       Stack<Integer> st=new Stack<>();
+       int n=s.length();
+       char sign='+';
+       for(int i=0;i<n;i++){
+           char ch=s.charAt(i);
+           if(Character.isDigit(ch)){
+               int val=0;
+               while(i<n &&Character.isDigit(s.charAt(i))){
+                   val=val*10+(s.charAt(i)-'0');
+                   i++;
+               }
+               i--;
+               if (sign == '+') {
+                   st.push(val);
+               } else if (sign=='-') {
+                   st.push(-val);
+               } else if (sign=='*') {
+                   int a=st.pop();
+                   st.push(a*val);
+               }else {
+                   int a= st.pop();
+                   st.push(a/val);
+               }
+           } else if (ch!=' ') {
+               sign=ch;
+           }
+       }
+       int sum=0;
+       while(st.size()!=0){
+           sum+=st.pop();
+       }
+       return sum;
     }
     public static void main(String[] args) {
         String s= "3+2*2";
+        System.out.println(BasicCalculator(s));
     }
 }
