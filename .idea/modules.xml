@@ -39,6 +39,7 @@
       <module fileurl="file://$PROJECT_DIR$/LeetCode/LinkedListQu/LinkedListQu.iml" filepath="$PROJECT_DIR$/LeetCode/LinkedListQu/LinkedListQu.iml" />
       <module fileurl="file://$PROJECT_DIR$/LeetCode/QueueQuestion/QueueQuestion.iml" filepath="$PROJECT_DIR$/LeetCode/QueueQuestion/QueueQuestion.iml" />
       <module fileurl="file://$PROJECT_DIR$/LeetCode/Recursion/Recursion.iml" filepath="$PROJECT_DIR$/LeetCode/Recursion/Recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LeetCode/Sliding Window/Sliding Window.iml" filepath="$PROJECT_DIR$/LeetCode/Sliding Window/Sliding Window.iml" />
       <module fileurl="file://$PROJECT_DIR$/LeetCode/Stack/Stack.iml" filepath="$PROJECT_DIR$/LeetCode/Stack/Stack.iml" />
       <module fileurl="file://$PROJECT_DIR$/LeetCode/StringProblem/StringProblem.iml" filepath="$PROJECT_DIR$/LeetCode/StringProblem/StringProblem.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lec 28/[Linked list].iml" filepath="$PROJECT_DIR$/Lec 28/[Linked list].iml" />
